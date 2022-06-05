@@ -49,3 +49,8 @@ Building a docker image from scratch has atleast 2 pros.
 
 1. Image size is small
 1. Image has very small attack area. By excluding shell from docker image we have secured our container.
+
+
+## Resources
+
+1. https://github.com/lizrice/hello-container-world/tree/master/Example1
